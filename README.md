@@ -7,3 +7,4 @@ Command line test is a BASH shell based tool that simulates login based online t
 ### Tech Stacks
 Shell Scripting
 [Taken as challenge](https://www.emertxe.com/embedded-systems/linux-systems/ls-projects/command-line-test)
+Build from scratch with :heart:
