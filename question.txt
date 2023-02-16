@@ -1,0 +1,8 @@
+Which company owns github? \\na)Microsoft \\nb)FaceBook \\nc)CNCF \\nd)Apple
+Git is ______ control system \\na)Version \\nb)Linear \\nc)Non-linear  \\nd)Discrete
+Git command that creates the copy of exiting git repository?\\na)git commit \\nb)git fetch \\nc)git clone \\nd)git pull
+Command used to remove the untracked files from git repository \\na)git clean\\nb)git add . \\nc)git status\\nd)git push
+Richard Stallmann created the _______ license\\na)GNU \\nb)github \\nc)linux \\nd)Ubuntu
+A folder that contains a batch of files which are different Versions of a project on git.\\na)git folder \\nb)Repository \\nc)gitVersion \\nd)branch
+Open source alternative to MsOffice \\na)Office \\nb)LibreOffice \\nc)WhiteBoard \\nd)GoogleDocs
+free and open-source web browser project, mainly developed and maintained by Google. \\na)OpenSSF \\nb)Chrome \\nc)Chrominium \\nd)Brave
